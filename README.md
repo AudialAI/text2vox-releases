@@ -1,8 +1,8 @@
 # text2vox releases
 
-Binaries for [text2vox](https://audialmusic.ai), the Audial DAW plugin that sings typed lyrics
+Binaries for [text2vox](https://audialmusic.ai?utm_source=github&utm_medium=readme&utm_campaign=text2vox), the Audial DAW plugin that sings typed lyrics
 over a MIDI melody in any reference voice. Download the latest macOS or Windows build from the
-[Releases page](../../releases) or [audialmusic.ai/downloads](https://audialmusic.ai/downloads).
+[Releases page](../../releases) or [audialmusic.ai/downloads](https://audialmusic.ai/downloads?utm_source=github&utm_medium=readme&utm_campaign=text2vox).
 The plugin talks to the Audial API with your Audial user ID and API key (active subscription
 required).
 
@@ -22,4 +22,4 @@ Each release also ships a `.sha256` next to the zip if you want to check the dow
 
 ---
 
-Powered by [Audial](https://audialmusic.ai).
+Powered by [Audial](https://audialmusic.ai?utm_source=github&utm_medium=readme&utm_campaign=text2vox).
