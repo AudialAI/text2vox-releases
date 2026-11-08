@@ -4,7 +4,9 @@ Binaries for [text2vox](https://audialmusic.ai?utm_source=github&utm_medium=read
 over a MIDI melody in any reference voice. Download the latest macOS or Windows build from the
 [Releases page](../../releases) or [audialmusic.ai/downloads](https://audialmusic.ai/downloads?utm_source=github&utm_medium=readme&utm_campaign=text2vox).
 The plugin talks to the Audial API with your Audial user ID and API key (active subscription
-required).
+required). text2vox sings one note at a time, so the melody must be a single melody line,
+not chords or harmony; a MIDI with chords or overlapping notes is refused before anything
+runs, and the plugin highlights the note at fault.
 
 ## Windows
 
